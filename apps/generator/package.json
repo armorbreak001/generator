@@ -50,7 +50,6 @@
   "dependencies": {
     "@asyncapi/generator-components": "*",
     "@asyncapi/generator-helpers": "*",
-    "@asyncapi/generator-hooks": "*",
     "@asyncapi/generator-react-sdk": "*",
     "@asyncapi/multi-parser": "^2.2.0",
     "@asyncapi/parser": "^3.6.0",
